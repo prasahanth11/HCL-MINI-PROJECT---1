@@ -10,9 +10,9 @@ A user can access/play all of the quiz and can attempt any of the one. There wil
 Technologies used are Core Java(Swing & AWT)
 
 IDE used: Apache Netbeans
-![login](https://github.com/prasahanth11/HCL-MINI-PROJECT---1/assets/121794307/4e7f55e7-da82-42b5-897e-c4a6a756f515)
 
-![score](https://github.com/prasahanth11/HCL-MINI-PROJECT---1/assets/121794307/3bafeb64-6991-4be4-9135-162f9a23f98d)
+
+![login](https://github.com/prasahanth11/HCL-MINI-PROJECT---1/assets/121794307/4e7f55e7-da82-42b5-897e-c4a6a756f515)
 
 ![quiz](https://github.com/prasahanth11/HCL-MINI-PROJECT---1/assets/121794307/af71f2fd-3e34-46b2-9cc6-8360e56ae379)
 
